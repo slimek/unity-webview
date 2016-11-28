@@ -3,3 +3,7 @@ Assets/Plugins.meta
 !Assets/Plugins/Android/AndroidManifest.xml
 !Assets/Plugins/Android/AndroidManifest.xml.meta
 Library
+
+# Visual Studio Tools Generated Files
+Assets/UnityVS/
+Assets/UnityVS.meta
